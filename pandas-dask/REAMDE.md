@@ -5,3 +5,9 @@ represents a section of the blog.
 
 ## Requirements
 [Just install jupyter](https://jupyter.org/install).
+
+## Running
+1. Execute `jupyter-lab` in this directory.
+2. Run the jupyter notebook starting with `1 looping...` while reading the first section of the blog post.
+3. Run the jupyter notebook starting with `2 use...` while reading the second section.
+4. Guess what to do for the notebook starting with `3 Dask...` :-)
